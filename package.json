@@ -1,0 +1,19 @@
+{
+  "name": "irdi",
+  "version": "1.0.0",
+  "description": "Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjands/irdi.git"
+  },
+  "author": "Irdi Xhiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjands/irdi/issues"
+  },
+  "homepage": "https://github.com/arjands/irdi#readme"
+}
